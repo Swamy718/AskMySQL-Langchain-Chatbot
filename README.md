@@ -20,5 +20,4 @@ Built with **LangChain**, **Groq Llama‑3**, and **Streamlit**, it converts nat
 
 ---
 
-## 🗂️ Project Structure
 
