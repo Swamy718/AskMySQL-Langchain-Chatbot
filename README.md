@@ -1,11 +1,8 @@
 
 # 🛢️ AskMySQL – Natural‑Language MySQL Assistant
 
-<p align="center">
-  <img src="docs/banner.png" alt="AskMySQL banner" width="700">
-</p>
 
-AskMySQL lets anyone query a MySQL / MariaDB database by simply **chatting in plain English**.  
+AskMySQL lets anyone query a MySQL database by simply **chatting in plain English**.  
 Built with **LangChain**, **Groq Llama‑3**, and **Streamlit**, it converts natural‑language questions into safe SQL, executes them, and streams back concise answers.
 
 ---
